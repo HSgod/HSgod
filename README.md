@@ -4,6 +4,7 @@
 - 🏠 18 years old kid from Poland
 - 📲 Founder and Lead Developer at [ProjectStreak](https://github.com/ProjectStreak)
 - 💻 Like to fight with Android sources
+- 📖 Learning Java, Python and C++
 - 📫 How to reach me: [Telegram](https://t.me/HSgod02)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsgod&theme=great-gatsby&show_icons=true" alt="stats"/></p>
